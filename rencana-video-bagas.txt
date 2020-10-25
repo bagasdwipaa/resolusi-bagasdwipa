@@ -3,4 +3,7 @@ Rencana Video Bagas
 - ALgoritma
 - Vlog = trip
 - CSS
+- boostrap
 - PHP
+- codeigniter
+- laravel
