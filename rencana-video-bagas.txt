@@ -5,4 +5,5 @@ Rencana Video Bagas
 - CSS
 - boostrap
 - PHP
+- codeigniter
 - laravel
