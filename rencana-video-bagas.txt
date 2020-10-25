@@ -1,4 +1,4 @@
 Rencana Video Bagas
-- C++
+- C++ = buat aplikasi
 - ALgoritma
-- Vlog
+- Vlog = trip
