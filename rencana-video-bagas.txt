@@ -2,5 +2,5 @@ Rencana Video Bagas
 - C++ = buat aplikasi
 - ALgoritma
 - Vlog = trip
-- boostrap
-- laravel
+- CSS
+- PHP
